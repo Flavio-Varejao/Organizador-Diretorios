@@ -1,24 +1,5 @@
 #!/usr/bin/env bash
 #
-# mvfile.sh - Organizador Automático de Diretório
-#
-# Site:     
-# Autor:      Flávio Varejão
-# Manutenção: Flávio Varejão
-# -------------------------------------------------------------------------------------------------------------------------- #
-# Este script organiza um diretório automaticamente de acordo com o tempo configurado.
-# Os arquivos serão movidos para os diretórios predeterminados pelo usuário.
-#
-# Este script será utilizado no agendador de tarefas crontab e o tempo de execução será configurado pelo usuário.
-#
-# Se desejar altere os diretórios abaixo ou acrescente mais arquivos ao script.
-# -------------------------------------------------------------------------------------------------------------------------- #
-# Histórico:
-#   v1.0 09/09/2020, Flávio:
-#     - Início do programa            
-# -------------------------------------------------------------------------------------------------------------------------- #
-# Testado em:
-#   bash 5.0.17 
 # -------------------------------------------------------------------------------------------------------------------------- #
 # ------------------------------------------------- FUNÇÕES ------------------------------------------------- #
 Imagens() {

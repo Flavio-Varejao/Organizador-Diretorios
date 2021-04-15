@@ -1,23 +1,5 @@
 #!/usr/bin/env bash
 #
-# mvfile.sh - Configura o agendador para o Organizador de Diretório
-#
-# Site:     
-# Autor:      Flávio Varejão
-# Manutenção: Flávio Varejão
-# -------------------------------------------------------------------------------------------------------------------------- #
-# Este script verifica se o crontab está configurado para executar o Organizador de Diretório
-#
-# Exemplos:
-#   $ ./mvfile.sh
-#   Neste exemplo o script vai perguntar se o usuário deseja configurar o tempo de execução.
-# -------------------------------------------------------------------------------------------------------------------------- #
-# Histórico:
-#   v1.0 09/09/2020, Flávio:
-#     - Início do programa            
-# -------------------------------------------------------------------------------------------------------------------------- #
-# Testado em:
-#   bash 5.0.17 
 # -------------------------------------------------------------------------------------------------------------------------- #
 # ------------------------------------------------ VARIÁVEIS------------------------------------------------- #
 AMARELO="\033[33;1m"
