@@ -39,7 +39,7 @@ Neste exemplo o script vai perguntar se o usuário deseja configurar o tempo de 
 
 ### Testado em:  
 
-  bash 5.0.17  
+  Bash 5.0.17  
   
 [Topo](#ancora)
 
@@ -74,11 +74,11 @@ Nesse exemplo, o diretório configurado no script será organizado todo dia a ca
 
 ### Histórico:  
 
-  v1.0 09/09/2020, Flávio:
-    - Início do programa 
+  v1.0 09/09/2020, Flávio:  
+    - Início do programa  
 
 ### Testado em:  
   
-  bash 5.0.17  
+  Bash 5.0.17  
 
 [Topo](#ancora)
